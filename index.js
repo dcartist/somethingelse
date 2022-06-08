@@ -13,3 +13,5 @@ console.log(player.gamesPlayed[3])
 console.log(player["height"])
 
 player.play()
+
+console.log( "another test")
