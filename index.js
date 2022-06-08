@@ -8,7 +8,6 @@ let player = {
   }
 }
 
-
 console.log(player.height)
 console.log(player.gamesPlayed[3])
 console.log(player["height"])
